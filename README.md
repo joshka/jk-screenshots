@@ -3,12 +3,23 @@
 This repository hosts screenshot and GIF assets for
 [`joshka/jk`](https://github.com/joshka/jk).
 
-Assets in this repository are intended to be embedded from the `jk` README, crates.io page, docs,
-and release notes using absolute URLs such as:
+Assets are served from:
 
-```markdown
-![jk log view](https://www.joshka.net/jk-screenshots/assets/jk-log.gif)
-```
+<https://www.joshka.net/jk-screenshots/>
+
+## README Assets
+
+- `assets/jk-log.gif`
+- `assets/jk-log.png`
+- `assets/jk-log-help.png`
+- `assets/jk-log-selection.png`
+- `assets/jk-log-expanded.png`
+- `assets/jk-diff.gif`
+- `assets/jk-diff.png`
+- `assets/jk-diff-help.png`
+- `assets/jk-diff-search.png`
+- `assets/jk-diff-folded-hunk.png`
+- `assets/jk-diff-folded-file.png`
 
 ## Rules
 
