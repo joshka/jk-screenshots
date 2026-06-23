@@ -24,7 +24,7 @@ Assets are served from:
 ## Rules
 
 - Store generated screenshots, GIFs, and videos under `assets/`.
-- Keep all image and video assets Git LFS-backed.
+- Keep public web assets as normal Git blobs so GitHub Pages serves real media bytes.
 - Do not copy these assets into the main `jk` repository.
 - After publishing an asset, verify the served URL returns real media bytes rather than a Git LFS
   pointer file.
